@@ -1,3 +1,4 @@
+// LedBlink: hace parpadear un LED externo conectado al pin 2 cada 500 ms.
 const int LED_PIN = 2;
 
 void setup() {

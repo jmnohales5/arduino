@@ -1,3 +1,4 @@
+// Led: enciende un LED externo conectado al pin 2 (con resistencia en serie).
 const int LED_PIN = 2;
 
 void setup() {
